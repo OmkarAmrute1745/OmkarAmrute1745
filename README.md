@@ -7,7 +7,7 @@ I'm a passionate computer science student currently pursuing my MSc in Computer 
 - 🔭 I’m currently learning and working on projects related to C, C++, Python, Java, JavaScript, and TypeScript.
 - 🌱 I’m interested in software development, machine learning, web development, and data science.
 - 💬 Ask me about anything related to programming, algorithms, or technology!
-- 📫 You can reach me via email at [Omkar Amrute ](omkaramrute1745@gmail.com)
+- 📫 You can reach me via email at omkaramrute1745@gmail.com
 
 ## Skills
 
