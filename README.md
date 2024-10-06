@@ -1,6 +1,6 @@
 # Hello, I'm Omkar Amrute! 👋
 
-I'm a passionate computer science student currently pursuing my MSc in Computer Application at MIT Pune. I enjoy exploring various areas of computer science, from programming languages to software development methodologies.
+I am a passionate computer science graduate with an MSc in Computer Application from MIT Pune. I enjoy exploring various areas of computer science, ranging from programming languages to software development methodologies. I have hands-on experience in full-stack development, automation, and working with modern web frameworks.
 
 ## About Me
 
